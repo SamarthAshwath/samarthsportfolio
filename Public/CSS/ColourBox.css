@@ -1,0 +1,131 @@
+body{
+  margin: auto;
+  padding: 0px;
+  
+}
+
+.Wrapper{
+  width: 100%;
+  margin: auto;
+}
+
+.Top{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  background: azure; 
+}
+
+.Top1{
+   width: 100%;
+   background: lightgray;
+}
+
+.Top2{
+   width: 100%;
+  margin: auto;
+  align-content: center;
+  text-align: center;
+  height: 100%;
+  background: lightgreen;
+}
+
+.Top3{
+  width: 100%;
+  text-align: right;
+  background: lightsteelblue;
+}
+
+.Nav{
+  padding: 0px;
+  height: 60px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  background: red;
+}
+
+.Nav1{
+  margin: auto;
+  width: 80px;
+  height: 20px;
+  background: lightgray;
+}
+
+.Nav2{
+  margin: auto;
+  width: 80px;
+  height: 20px;
+  background: lightgray;
+}
+
+.Nav3{
+  margin: auto;
+  width: 80px;
+  height: 20px;
+  background: lightgray;
+}
+
+.Nav4{
+  margin: auto;
+  width: 80px;
+  height: 20px;
+  background: lightgray;
+}
+
+.Nav5{
+  margin: auto;
+  width: 80px;
+  height: 20px;
+  background: lightgray;
+}
+
+.Main{
+  width: 80%;
+  height: 300px;
+  margin: auto;
+  padding: 40px;
+  display: flex;
+  background: lightcyan;
+}
+
+.Main1{
+  margin-left: 40px;
+  height: 240px;
+  width: 240px;
+  background: aqua;
+}
+
+.Main12{
+  margin-left: 40px;
+  height: 240px;
+  width: 800px;
+  background: aqua;
+}
+
+.Bott{
+  height: 170px;
+  width: 80%;
+  margin: auto;
+  display: flex;
+}
+
+.Bott1{
+  background: lightslategrey;
+  width: 100%;
+  margin: 20px;
+}
+
+.Bott2{
+  background: lightslategrey;
+  width: 100%;
+  margin: 20px;
+}
+
+
+.Bott3{
+  background: lightslategrey;
+  width: 100%;
+  text-align: center;
+  margin: 20px;
+}
